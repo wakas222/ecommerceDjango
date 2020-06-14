@@ -1,1 +1,1 @@
-web: gunicoen djecommerce.wsgi
+web: gunicorn djecommerce.wsgi
