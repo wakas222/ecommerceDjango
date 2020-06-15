@@ -1,1 +1,1 @@
-web: gunicorn djecommerce.wsgi
+web:node src/server.js
